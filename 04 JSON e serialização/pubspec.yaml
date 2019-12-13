@@ -1,0 +1,17 @@
+name: json_serialization
+description: A sample command-line application.
+# version: 1.0.0
+# homepage: https://www.example.com
+# author: gui9394 <gui9394@gmail.com>
+
+environment:
+  sdk: '>=2.5.0 <3.0.0'
+
+dependencies:
+  # Your other regular dependencies here
+  json_annotation: ^3.0.0
+
+dev_dependencies:
+  # Your other dev_dependencies here
+  build_runner: ^1.7.2
+  json_serializable: ^3.2.3
